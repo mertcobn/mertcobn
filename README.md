@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mertcobn
-- 👀 I’m interested in Audio Programming
-- 🌱 I’m currently learning C++ and Juce.
-- 💞️ I’m looking to collaborate on audio-related projects.
 - 📫 How to reach me mertcoban_@outlook.com
 
 
