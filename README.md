@@ -1,6 +1,5 @@
-I develop smart contracts using Solidity and Foundry on EVM chains, while also exploring other major ecosystems like Solana. Working on DeFi protocols, consensus mechanisms, decentralized architecture, and smart contract security.
+Smart contract security researcher and Solidity developer focused on EVM chains. Currently building a Foundry-based PoC portfolio covering common smart contract vulnerabilities. Working toward DeFi development. Also building dApps.
 
-# 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-%23363636.svg?style=for-the-badge&logo=foundry&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-%23363636.svg?style=for-the-badge&logo=ethereum&logoColor=white)
