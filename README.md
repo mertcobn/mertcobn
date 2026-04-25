@@ -9,7 +9,6 @@ I develop smart contracts using Solidity and Foundry on EVM chains, while also e
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23363636.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-%23363636.svg?style=for-the-badge&logo=ethers.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%23363636.svg?style=for-the-badge&logo=react&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23363636.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcobn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
